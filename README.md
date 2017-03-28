@@ -8,4 +8,4 @@
 #### Better font awesome
 - ```https://wordpress.org/plugins/better-font-awesome/installation/```
 ### Setup connection with database
-- ``` http://{my-domain}/wp-admin/setup-config.php ```
+- ``` http://{my-domain}/wp-config.php ```
